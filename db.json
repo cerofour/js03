@@ -1,0 +1,43 @@
+{
+	"clients": [
+		{
+			"id": 1,
+			"name": "Diego Llacsahuanga",
+			"email": "dllac@company.com"
+		},
+		{
+			"id": 2,
+			"name": "Kevin Huanca",
+			"email": "khua@company.com"
+		},
+		{
+			"id": 3,
+			"name": "Jhon Doe",
+			"email": "jdoe@company.com"
+		}
+	],
+
+	"products": [
+		{
+			"id": 1,
+			"productName": "Audífonos Bluetooth",
+			"brand": "ELYI",
+			"stock": 4,
+			"price": 25.99
+		},
+		{
+			"id": 2,
+			"productName": "Mouse Gamer",
+			"brand": "Loyitek",
+			"stock": 10,
+			"price": 59.99
+		},
+		{
+		"id": 3,
+			"productName": "Monitor 144hz",
+			"brand": "Eicer",
+			"stock": 1,
+			"price": 109.99
+		}
+	]
+}
